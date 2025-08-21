@@ -619,149 +619,149 @@
     "evaluatedAt": "2025-08-21T21:27:11.524Z",
     "evaluatedBy": "Sistema de Evaluación"
   },
-  "MiguelM1004/act_web1_s4": {
-    "repositoryUrl": "MiguelM1004/act_web1_s4",
-    "studentName": "Miguel Ángel Muñoz López",
+  "manjarrezcristian/act_web1_s4": {
+    "repositoryUrl": "manjarrezcristian/act_web1_s4",
+    "studentName": "cristian luis tovar manjarrez",
     "activities": [
       {
         "activityDescription": "Calcular el cuadrado de un número - Crea una función que reciba un número y devuelva su cuadrado. (Tipo de función: Declaración de función)",
         "solutionFile": "ejercicios/ejercicio_01.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y eficiente. El código es limpio y cumple con la descripción de la actividad."
+        "feedback": "La solución es correcta y funcional. El código es claro y conciso. Se sugiere eliminar la línea `cuadrado(4);` antes del `console.log` ya que no es necesaria."
       },
       {
         "activityDescription": "Saludar con nombre por defecto - Crea una función que salude a una persona por su nombre. Si no se proporciona un nombre, usa 'Invitado'. (Tipo de función: Expresión de función)",
         "solutionFile": "ejercicios/ejercicio_02.js",
-        "score": 5,
+        "score": 4,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es conciso, correcto y utiliza el valor por defecto de manera adecuada. Bien hecho."
+        "feedback": "La función cumple con el objetivo, aunque el mensaje 'bienvenido' no estaba especificado en el ejemplo. Se recomienda usar template literals para mejorar la legibilidad del código."
       },
       {
         "activityDescription": "Sumar elementos de un arreglo - Crea una función que sume todos los números de un arreglo. (Tipo de función: Función flecha)",
         "solutionFile": "ejercicios/ejercicio_03.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. Utiliza `reduce` de forma concisa y eficiente para sumar los elementos del arreglo. El código es limpio y cumple con el objetivo."
+        "feedback": "Excelente solución. El código es conciso, claro y utiliza correctamente la función `reduce` para sumar los elementos del arreglo. Los ejemplos demuestran la funcionalidad."
       },
       {
         "activityDescription": "Ejecutar un mensaje instantáneamente - Crea una función que imprima '¡Bienvenido!' en la consola al definirse. (Tipo de función: IIFE)",
         "solutionFile": "ejercicios/ejercicio_04.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "¡Excelente! La solución utiliza una IIFE de forma correcta e imprime el mensaje esperado. El código es conciso y cumple con el objetivo."
+        "feedback": "¡Excelente! La solución implementa correctamente una IIFE para imprimir el mensaje instantáneamente. El código es conciso y cumple con la descripción de la actividad."
       },
       {
         "activityDescription": "Contar vocales en una cadena - Crea una función que cuente las vocales (a, e, i, o, u) en una cadena. (Tipo de función: Función recursiva)",
         "solutionFile": "ejercicios/ejercicio_05.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución recursiva. El código es conciso, legible y cumple con el objetivo. La función `contarVocales` funciona correctamente y es eficiente."
+        "feedback": "La solución es correcta y utiliza recursión de manera eficiente para contar las vocales. El código es legible y conciso."
       },
       {
         "activityDescription": "Filtrar números mayores a 10 - Crea una función que reciba un arreglo y devuelva solo los números mayores a 10. (Tipo de función: Función de orden superior)",
         "solutionFile": "ejercicios/ejercicio_06.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta, concisa y utiliza la función `filter` de manera eficiente. Incluye un `console.log` que demuestra el correcto funcionamiento de la función."
+        "feedback": "La solución es correcta y eficiente, utilizando `filter` de forma concisa. El código es legible y cumple con el objetivo de la actividad. Podrías añadir algunos comentarios dentro de la función para explicar mejor su funcionamiento, aunque no es estrictamente necesario."
       },
       {
         "activityDescription": "Convertir a mayúsculas - Crea una función que convierta una cadena a mayúsculas. (Tipo de función: Función flecha)",
         "solutionFile": "ejercicios/ejercicio_07.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta, concisa y utiliza una función flecha tal como se solicitó. El código es limpio y funcional."
+        "feedback": "La solución es correcta, concisa y cumple con los requisitos de la actividad. El uso de la función flecha es apropiado y el código es fácil de entender."
       },
       {
         "activityDescription": "Temporizador con mensaje - Crea una función que imprima un mensaje después de 3 segundos usando setTimeout. (Tipo de función: Función anónima)",
         "solutionFile": "ejercicios/ejercicio_08.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y concisa, utilizando una función anónima dentro de `setTimeout` como se solicitó. El código es legible y cumple con el requerimiento."
+        "feedback": "La solución es correcta y concisa, cumple con los requisitos de la actividad utilizando una función anónima y `setTimeout`. El código es legible y funcional."
       },
       {
         "activityDescription": "Crear un contador privado - Crea una función que devuelva otra función para contar incrementos, manteniendo el contador privado. (Tipo de función: IIFE con closure)",
         "solutionFile": "ejercicios/ejercicio_09.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es conciso, funcional y utiliza correctamente una IIFE y closure para mantener el contador privado. Cumple con todos los requisitos."
+        "feedback": "Excelente solución. El código es conciso, funcional y demuestra un entendimiento claro de IIFE y closures para crear un contador privado."
       },
       {
         "activityDescription": "Calcular factorial - Crea una función que calcule el factorial de un número. (Tipo de función: Función recursiva)",
         "solutionFile": "ejercicios/ejercicio_10.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La función factorial implementada recursivamente es correcta y concisa. El código es legible y cumple con los requisitos de la actividad."
+        "feedback": "La solución es correcta, utiliza recursión eficientemente y maneja el caso base adecuadamente. El código es limpio y fácil de entender."
       },
       {
         "activityDescription": "Verificar si un número es par - Crea una función que determine si un número es par. (Tipo de función: Declaración de función)",
         "solutionFile": "ejercicios/ejercicio_11.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y eficiente. El código es claro y cumple con los requisitos de la actividad. Bien hecho."
+        "feedback": "La solución es correcta y eficiente. El código es limpio y fácil de entender. Considera usar nombres de función en español para consistencia."
       },
       {
         "activityDescription": "Multiplicar elementos de un arreglo - Crea una función que multiplique todos los números de un arreglo. (Tipo de función: Función de orden superior)",
         "solutionFile": "ejercicios/ejercicio_12.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. Utiliza `reduce` de forma concisa y correcta para multiplicar los elementos del arreglo. El código es limpio y funcional."
+        "feedback": "Excelente solución. El código es conciso, claro y utiliza `reduce` correctamente para lograr el resultado deseado. Cumple con todos los requisitos de la actividad."
       },
       {
         "activityDescription": "Reemplazar espacios por guiones - Crea una función que reemplace los espacios en una cadena por guiones. (Tipo de función: Expresión de función)",
         "solutionFile": "ejercicios/ejercicio_13.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es conciso, correcto y utiliza la función replace con una expresión regular para reemplazar todos los espacios correctamente.  La impresión en consola también es útil para verificar la funcionalidad."
+        "feedback": "La solución es correcta y concisa. Utiliza el método `replace` con una expresión regular de manera eficiente para reemplazar todos los espacios."
       },
       {
         "activityDescription": "Generar un ID único - Crea una función que genere un ID único basado en un contador interno. (Tipo de función: IIFE con closure)",
         "solutionFile": "ejercicios/ejercicio_14.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Solución correcta y elegante. Utiliza una IIFE con closure de manera efectiva para generar IDs únicos. Buen uso de buenas prácticas."
+        "feedback": "Excelente solución. Cumple con los requisitos de la actividad utilizando una IIFE y closure para generar IDs únicos de manera eficiente. El código es limpio y fácil de entender."
       },
       {
         "activityDescription": "Invertir una cadena - Crea una función que invierta una cadena de texto. (Tipo de función: Función recursiva)",
         "solutionFile": "ejercicios/ejercicio_15.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y concisa, implementando la función recursiva para invertir la cadena de manera eficiente. El código es limpio y fácil de entender."
+        "feedback": "La solución es correcta y utiliza recursión como se solicitó. El código es claro, conciso y funciona perfectamente."
       },
       {
         "activityDescription": "Sumar argumentos variables - Crea una función que sume un número variable de argumentos. (Tipo de función: Función flecha con parámetro rest)",
         "solutionFile": "ejercicios/ejercicio_16.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. La función flecha con parámetro rest y `reduce` es la forma más concisa y eficiente de resolver el problema. El código es limpio y fácil de entender."
+        "feedback": "Excelente solución. El código es conciso, legible y utiliza correctamente la función flecha con parámetro rest y el método reduce para lograr el objetivo."
       },
       {
         "activityDescription": "Ejecutar operación personalizada - Crea una función que reciba dos números y una función callback para realizar una operación. (Tipo de función: Función de orden superior)",
         "solutionFile": "ejercicios/ejercicio_17.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es claro, conciso y resuelve el problema eficientemente. Buen uso de la función callback para la operación personalizada."
+        "feedback": "La solución es correcta y concisa. El código es legible y cumple con los requisitos de la actividad. Buen trabajo."
       },
       {
         "activityDescription": "Validar correo electrónico - Crea una función que valide si una cadena es un correo electrónico básico (contiene @ y .com). (Tipo de función: Declaración de función)",
         "solutionFile": "ejercicios/ejercicio_18.js",
-        "score": 3,
+        "score": 4,
         "fileFound": true,
-        "feedback": "La función es correcta para la validación básica, pero no considera dominios diferentes a '.com'. Podrías mejorarla usando expresiones regulares para una validación más robusta."
+        "feedback": "La función cumple con la validación básica requerida. Podrías mejorar la robustez de la validación para abarcar más formatos de correo electrónico, como dominios diferentes a .com."
       },
       {
         "activityDescription": "Retrasar ejecución de un mensaje - Crea una función que imprima un mensaje después de un tiempo definido por el usuario. (Tipo de función: Función anónima con setTimeout)",
         "solutionFile": "ejercicios/ejercicio_19.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y concisa. Utiliza `setTimeout` con una función anónima tal como se pedía. El código es claro y fácil de entender."
+        "feedback": "La solución es correcta y cumple con los requisitos. El código es limpio y fácil de entender, utilizando correctamente `setTimeout` y una función anónima."
       },
       {
         "activityDescription": "Calcular promedio de un arreglo - Crea una función que calcule el promedio de un arreglo de números. (Tipo de función: Función flecha)",
         "solutionFile": "ejercicios/ejercicio_20.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "Excelente solución. El código es conciso, legible y cumple con los requisitos de la actividad utilizando una función flecha y el método reduce de forma eficiente."
+        "feedback": "La solución es correcta, concisa y bien estructurada, utilizando una función flecha y `reduce` de manera eficiente.  El manejo del array vacío es adecuado."
       }
     ],
     "overallScore": 4.9,
@@ -771,7 +771,7 @@
     "recommendations": [
       "Continuar con el excelente trabajo y mantener la calidad del código"
     ],
-    "evaluatedAt": "2025-08-21T21:31:25.555Z",
+    "evaluatedAt": "2025-08-21T21:36:25.096Z",
     "evaluatedBy": "Sistema de Evaluación"
   }
 }
