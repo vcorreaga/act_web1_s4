@@ -1248,21 +1248,21 @@
         "solutionFile": "ejercicios/ejercicio_01.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La función calcula correctamente el cuadrado del número. El código es legible y cumple con los requisitos de la actividad."
+        "feedback": "La solución es correcta y funcional. El código es legible y cumple con la descripción del problema. Buen trabajo."
       },
       {
         "activityDescription": "Saludar con nombre por defecto - Crea una función que salude a una persona por su nombre. Si no se proporciona un nombre, usa 'Invitado'. (Tipo de función: Expresión de función)",
         "solutionFile": "ejercicios/ejercicio_02.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y concisa. El código es limpio y cumple con los requerimientos de la actividad, utilizando correctamente el valor por defecto."
+        "feedback": "La solución es correcta y cumple con todos los requisitos. El código es claro y conciso, utilizando correctamente el valor por defecto en la función."
       },
       {
         "activityDescription": "Sumar elementos de un arreglo - Crea una función que sume todos los números de un arreglo. (Tipo de función: Función flecha)",
         "solutionFile": "ejercicios/ejercicio_03.js",
         "score": 3,
         "fileFound": true,
-        "feedback": "La función solo suma los primeros tres elementos del arreglo. Deberías usar un bucle o un método como `reduce` para sumar todos los elementos, independientemente del tamaño del arreglo."
+        "feedback": "La función solo funciona para arreglos de tamaño 3. Deberías usar un bucle o el método `reduce` para que funcione con arreglos de cualquier tamaño."
       },
       {
         "activityDescription": "Ejecutar un mensaje instantáneamente - Crea una función que imprima '¡Bienvenido!' en la consola al definirse. (Tipo de función: IIFE)",
@@ -1276,70 +1276,70 @@
         "solutionFile": "ejercicios/ejercicio_05.js",
         "score": 1,
         "fileFound": true,
-        "feedback": "La función no cumple con el requisito de ser recursiva y no cuenta correctamente las vocales.  Además, la lógica actual solo verifica si la cadena completa es una vocal, no las vocales dentro de la cadena."
+        "feedback": "La función no implementa la recursividad y no cuenta las vocales correctamente en la cadena completa. Además, el condicional `vocales.includes(texto)` sólo verifica si la cadena `texto` completa es una vocal, no si contiene vocales."
       },
       {
         "activityDescription": "Filtrar números mayores a 10 - Crea una función que reciba un arreglo y devuelva solo los números mayores a 10. (Tipo de función: Función de orden superior)",
         "solutionFile": "ejercicios/ejercicio_06.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y concisa, utilizando de manera eficiente la función `filter`. El código es legible y cumple con las buenas prácticas."
+        "feedback": "La solución es correcta y concisa. Utiliza de manera eficiente la función `filter` para resolver el problema. ¡Excelente trabajo!"
       },
       {
         "activityDescription": "Convertir a mayúsculas - Crea una función que convierta una cadena a mayúsculas. (Tipo de función: Función flecha)",
         "solutionFile": "ejercicios/ejercicio_07.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y concisa, utilizando una función flecha como se solicitó. El código es legible y funciona como se espera."
+        "feedback": "La solución es correcta y utiliza una función flecha como se solicitó. El código es limpio y fácil de entender."
       },
       {
         "activityDescription": "Temporizador con mensaje - Crea una función que imprima un mensaje después de 3 segundos usando setTimeout. (Tipo de función: Función anónima)",
         "solutionFile": "ejercicios/ejercicio_08.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y cumple con los requisitos de la actividad. El código es conciso y funcional."
+        "feedback": "La solución es correcta y concisa, cumple con los requisitos de la actividad utilizando una función anónima y setTimeout. El código es limpio y fácil de entender."
       },
       {
         "activityDescription": "Crear un contador privado - Crea una función que devuelva otra función para contar incrementos, manteniendo el contador privado. (Tipo de función: IIFE con closure)",
         "solutionFile": "ejercicios/ejercicio_09.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y concisa, utilizando una IIFE y closure para mantener el contador privado. El código es limpio y funcional."
+        "feedback": "Excelente solución. El código implementa correctamente un contador privado utilizando una IIFE y closure, cumpliendo con todos los requisitos de la actividad."
       },
       {
         "activityDescription": "Calcular factorial - Crea una función que calcule el factorial de un número. (Tipo de función: Función recursiva)",
         "solutionFile": "ejercicios/ejercicio_10.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La solución es correcta y concisa, implementando la función factorial de forma recursiva. El código es limpio y fácil de entender."
+        "feedback": "La función factorial implementada es correcta y recursiva. El código es limpio y conciso. ¡Excelente trabajo!"
       },
       {
         "activityDescription": "Verificar si un número es par - Crea una función que determine si un número es par. (Tipo de función: Declaración de función)",
         "solutionFile": "ejercicios/ejercicio_11.js",
         "score": 5,
         "fileFound": true,
-        "feedback": "La función `esPar` cumple correctamente con la tarea. El código es limpio, legible y funciona según lo esperado. Podrías simplificar el `if/else` con un simple `return numero % 2 === 0;`."
+        "feedback": "La función esPar cumple con el objetivo y tiene un código limpio y fácil de entender. Podrías simplificar el if/else a `return numero % 2 === 0;`"
       },
       {
         "activityDescription": "Multiplicar elementos de un arreglo - Crea una función que multiplique todos los números de un arreglo. (Tipo de función: Función de orden superior)",
         "solutionFile": "ejercicios/ejercicio_12.js",
         "score": 4,
         "fileFound": true,
-        "feedback": "La solución es correcta y funcional. Podrías considerar usar el método `reduce` para una solución más concisa y acorde al tipo de función de orden superior solicitada."
+        "feedback": "La función resuelve correctamente el problema. Sin embargo, podría implementarse usando el método `reduce` para cumplir mejor con el concepto de función de orden superior y mejorar la legibilidad. Considera agregar manejo de errores para casos donde el array contenga elementos no numéricos."
       },
       {
         "activityDescription": "Reemplazar espacios por guiones - Crea una función que reemplace los espacios en una cadena por guiones. (Tipo de función: Expresión de función)",
         "solutionFile": "ejercicios/ejercicio_13.js",
         "score": 4,
         "fileFound": true,
-        "feedback": "La solución es correcta y funcional. Se podría simplificar el código utilizando el método `replace` de strings para una solución más concisa y legible."
+        "feedback": "La solución es correcta y funcional.  Se podría considerar usar `string.replace()` o `string.replaceAll()` para una solución más concisa y legible.  Buen uso de una expresión de función."
       },
       {
         "activityDescription": "Generar un ID único - Crea una función que genere un ID único basado en un contador interno. (Tipo de función: IIFE con closure)",
         "solutionFile": "ejercicios/ejercicio_14.js",
         "score": 2,
         "fileFound": true,
-        "feedback": "La función utiliza un IIFE con closure, pero el ID generado es aleatorio y no basado en un contador incremental. El enunciado pedía un ID único incremental, no aleatorio."
+        "feedback": "La función usa una IIFE con closure correctamente para mantener un contador. Sin embargo, genera un ID aleatorio en lugar de uno secuencial basado en el contador, lo cual no cumple con la descripción de la actividad. Se espera que retorne el valor del contador incrementado."
       },
       {
         "activityDescription": "Invertir una cadena - Crea una función que invierta una cadena de texto. (Tipo de función: Función recursiva)",
@@ -1393,7 +1393,7 @@
       "Enfocarse en mejorar la documentación y comentarios del código",
       "Aplicar mejores prácticas de programación"
     ],
-    "evaluatedAt": "2025-08-25T04:34:57.007Z",
+    "evaluatedAt": "2025-08-25T04:37:11.242Z",
     "evaluatedBy": "Sistema de Evaluación"
   }
 }
