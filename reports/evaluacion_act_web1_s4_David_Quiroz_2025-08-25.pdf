@@ -48,7 +48,7 @@ BT
 11.5 TL
 0 g
 39.6850393700787407 692.6774015748030706 Td
-(Fecha de evaluación: 24/8/2025, 23:34:57) Tj
+(Fecha de evaluación: 24/8/2025, 23:37:11) Tj
 ET
 BT
 /F1 10 Tf
@@ -1497,7 +1497,7 @@ endobj
 endobj
 6 0 obj
 <<
-/Length 5762
+/Length 5730
 >>
 stream
 0.5670000000000001 w
@@ -1550,14 +1550,13 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 663.5081102362204319 Td
-(La función calcula correctamente el cuadrado del número. El código es legible y cumple con los requisitos de la) Tj
-T* (actividad.) Tj
+(La solución es correcta y funcional. El código es legible y cumple con la descripción del problema. Buen trabajo.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 627.8348818897637784 Td
+39.6850393700787407 639.3348818897637784 Td
 (Actividad 2: Saludar con nombre por defecto - Crea una función que salude a una persona por su nombre.) Tj
 T* (Si no se proporciona un nombre, usa 'Invitado'. \(Tipo de función: Expresión de función\)) Tj
 ET
@@ -1565,43 +1564,43 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 600.6655905511810261 Td
+51.0236220472441033 612.1655905511810261 Td
 (Archivo esperado: ejercicios/ejercicio_02.js) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 584.9962992125983874 Td
+51.0236220472441033 596.4962992125983874 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 569.3270078740157487 Td
+51.0236220472441033 580.8270078740157487 Td
 (Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 553.65771653543311 Td
+51.0236220472441033 565.15771653543311 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 537.9884251968503577 Td
-(La solución es correcta y concisa. El código es limpio y cumple con los requerimientos de la actividad, utilizando) Tj
-T* (correctamente el valor por defecto.) Tj
+62.3622047244094517 549.4884251968503577 Td
+(La solución es correcta y cumple con todos los requisitos. El código es claro y conciso, utilizando correctamente el) Tj
+T* (valor por defecto en la función.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 502.3151968503937042 Td
+39.6850393700787407 513.8151968503937042 Td
 (Actividad 3: Sumar elementos de un arreglo - Crea una función que sume todos los números de un arreglo.) Tj
 T* (\(Tipo de función: Función flecha\)) Tj
 ET
@@ -1609,43 +1608,43 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 475.1459055118110086 Td
+51.0236220472441033 486.6459055118110086 Td
 (Archivo esperado: ejercicios/ejercicio_03.js) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 459.4766141732283131 Td
+51.0236220472441033 470.9766141732283131 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 443.8073228346456744 Td
+51.0236220472441033 455.3073228346456744 Td
 (Calificación: 3.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 428.1380314960629789 Td
+51.0236220472441033 439.6380314960629789 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 412.4687401574803403 Td
-(La función solo suma los primeros tres elementos del arreglo. Deberías usar un bucle o un método como `reduce`) Tj
-T* (para sumar todos los elementos, independientemente del tamaño del arreglo.) Tj
+62.3622047244094517 423.9687401574803403 Td
+(La función solo funciona para arreglos de tamaño 3. Deberías usar un bucle o el método `reduce` para que) Tj
+T* (funcione con arreglos de cualquier tamaño.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 376.7955118110236867 Td
+39.6850393700787407 388.2955118110236867 Td
 (Actividad 4: Ejecutar un mensaje instantáneamente - Crea una función que imprima '¡Bienvenido!' en la) Tj
 T* (consola al definirse. \(Tipo de función: IIFE\)) Tj
 ET
@@ -1653,42 +1652,42 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 349.6262204724410481 Td
+51.0236220472441033 361.1262204724409912 Td
 (Archivo esperado: ejercicios/ejercicio_04.js) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 333.9569291338583525 Td
+51.0236220472441033 345.4569291338583525 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 318.2876377952757139 Td
+51.0236220472441033 329.7876377952757139 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 302.6183464566930752 Td
+51.0236220472441033 314.1183464566930752 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 286.9490551181104365 Td
+62.3622047244094517 298.4490551181103228 Td
 (Archivo vacío - sin contenido para evaluar) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 262.7758267716536693 Td
+39.6850393700787407 274.2758267716536693 Td
 (Actividad 5: Contar vocales en una cadena - Crea una función que cuente las vocales \(a, e, i, o, u\) en una) Tj
 T* (cadena. \(Tipo de función: Función recursiva\)) Tj
 ET
@@ -1696,37 +1695,38 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 235.6065354330710306 Td
+51.0236220472441033 247.1065354330710306 Td
 (Archivo esperado: ejercicios/ejercicio_05.js) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 219.937244094488392 Td
+51.0236220472441033 231.437244094488392 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 204.2679527559057533 Td
+51.0236220472441033 215.7679527559057533 Td
 (Calificación: 1.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 188.5986614173231146 Td
+51.0236220472441033 200.0986614173231146 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 172.9293700787403623 Td
-(La función no cumple con el requisito de ser recursiva y no cuenta correctamente las vocales.  Además, la lógica) Tj
-T* (actual solo verifica si la cadena completa es una vocal, no las vocales dentro de la cadena.) Tj
+62.3622047244094517 184.4293700787403623 Td
+(La función no implementa la recursividad y no cuenta las vocales correctamente en la cadena completa. Además,) Tj
+T* (el condicional `vocales.includes\(texto\)` sólo verifica si la cadena `texto` completa es una vocal, no si contiene) Tj
+T* (vocales.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1769,8 +1769,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 47.4096850393704017 Td
-(La solución es correcta y concisa, utilizando de manera eficiente la función `filter`. El código es legible y cumple con) Tj
-T* (las buenas prácticas.) Tj
+(La solución es correcta y concisa. Utiliza de manera eficiente la función `filter` para resolver el problema.) Tj
+T* (¡Excelente trabajo!) Tj
 ET
 BT
 /F1 8 Tf
@@ -1798,7 +1798,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Length 5587
+/Length 5715
 >>
 stream
 0.5670000000000001 w
@@ -1844,14 +1844,13 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 695.3506299212598378 Td
-(La solución es correcta y concisa, utilizando una función flecha como se solicitó. El código es legible y funciona) Tj
-T* (como se espera.) Tj
+(La solución es correcta y utiliza una función flecha como se solicitó. El código es limpio y fácil de entender.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 659.6774015748030706 Td
+39.6850393700787407 671.1774015748030706 Td
 (Actividad 8: Temporizador con mensaje - Crea una función que imprima un mensaje después de 3) Tj
 T* (segundos usando setTimeout. \(Tipo de función: Función anónima\)) Tj
 ET
@@ -1859,36 +1858,37 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 632.5081102362204319 Td
+51.0236220472441033 644.0081102362204319 Td
 (Archivo esperado: ejercicios/ejercicio_08.js) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 616.8388188976377933 Td
+51.0236220472441033 628.3388188976377933 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 601.1695275590551546 Td
+51.0236220472441033 612.6695275590550409 Td
 (Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 585.5002362204725159 Td
+51.0236220472441033 597.0002362204725159 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 569.8309448818897636 Td
-(La solución es correcta y cumple con los requisitos de la actividad. El código es conciso y funcional.) Tj
+62.3622047244094517 581.3309448818897636 Td
+(La solución es correcta y concisa, cumple con los requisitos de la actividad utilizando una función anónima y) Tj
+T* (setTimeout. El código es limpio y fácil de entender.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1909,7 +1909,7 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 502.8191338582677758 Td
+51.0236220472441033 502.819133858267719 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
@@ -1931,8 +1931,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 455.8112598425197461 Td
-(La solución es correcta y concisa, utilizando una IIFE y closure para mantener el contador privado. El código es) Tj
-T* (limpio y funcional.) Tj
+(Excelente solución. El código implementa correctamente un contador privado utilizando una IIFE y closure,) Tj
+T* (cumpliendo con todos los requisitos de la actividad.) Tj
 ET
 BT
 /F2 10 Tf
@@ -1975,14 +1975,13 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 330.2915748031497856 Td
-(La solución es correcta y concisa, implementando la función factorial de forma recursiva. El código es limpio y fácil) Tj
-T* (de entender.) Tj
+(La función factorial implementada es correcta y recursiva. El código es limpio y conciso. ¡Excelente trabajo!) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 294.6183464566930752 Td
+39.6850393700787407 306.1183464566930752 Td
 (Actividad 11: Verificar si un número es par - Crea una función que determine si un número es par. \(Tipo de) Tj
 T* (función: Declaración de función\)) Tj
 ET
@@ -1990,43 +1989,43 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 267.4490551181104365 Td
+51.0236220472441033 278.9490551181104365 Td
 (Archivo esperado: ejercicios/ejercicio_11.js) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 251.7797637795277979 Td
+51.0236220472441033 263.2797637795277979 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 236.1104724409451592 Td
+51.0236220472441033 247.6104724409451592 Td
 (Calificación: 5.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 220.4411811023625205 Td
+51.0236220472441033 231.9411811023625205 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 204.7718897637798818 Td
-(La función `esPar` cumple correctamente con la tarea. El código es limpio, legible y funciona según lo esperado.) Tj
-T* (Podrías simplificar el `if/else` con un simple `return numero % 2 === 0;`.) Tj
+62.3622047244094517 216.2718897637797681 Td
+(La función esPar cumple con el objetivo y tiene un código limpio y fácil de entender. Podrías simplificar el if/else a) Tj
+T* (`return numero % 2 === 0;`) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 169.0986614173231146 Td
+39.6850393700787407 180.5986614173231146 Td
 (Actividad 12: Multiplicar elementos de un arreglo - Crea una función que multiplique todos los números de) Tj
 T* (un arreglo. \(Tipo de función: Función de orden superior\)) Tj
 ET
@@ -2034,37 +2033,38 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 141.9293700787404759 Td
+51.0236220472441033 153.4293700787404759 Td
 (Archivo esperado: ejercicios/ejercicio_12.js) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 126.2600787401578373 Td
+51.0236220472441033 137.7600787401578373 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 110.5907874015750849 Td
+51.0236220472441033 122.0907874015751986 Td
 (Calificación: 4.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 94.9214960629924462 Td
+51.0236220472441033 106.4214960629925599 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 79.2522047244098076 Td
-(La solución es correcta y funcional. Podrías considerar usar el método `reduce` para una solución más concisa y) Tj
-T* (acorde al tipo de función de orden superior solicitada.) Tj
+62.3622047244094517 90.7522047244098076 Td
+(La función resuelve correctamente el problema. Sin embargo, podría implementarse usando el método `reduce`) Tj
+T* (para cumplir mejor con el concepto de función de orden superior y mejorar la legibilidad. Considera agregar manejo) Tj
+T* (de errores para casos donde el array contenga elementos no numéricos.) Tj
 ET
 BT
 /F1 8 Tf
@@ -2092,7 +2092,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Length 5262
+/Length 5413
 >>
 stream
 0.5670000000000001 w
@@ -2138,8 +2138,8 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 695.3506299212598378 Td
-(La solución es correcta y funcional. Se podría simplificar el código utilizando el método `replace` de strings para) Tj
-T* (una solución más concisa y legible.) Tj
+(La solución es correcta y funcional.  Se podría considerar usar `string.replace\(\)` o `string.replaceAll\(\)` para una) Tj
+T* (solución más concisa y legible.  Buen uso de una expresión de función.) Tj
 ET
 BT
 /F2 10 Tf
@@ -2182,14 +2182,15 @@ BT
 11.5 TL
 0. g
 62.3622047244094517 569.8309448818897636 Td
-(La función utiliza un IIFE con closure, pero el ID generado es aleatorio y no basado en un contador incremental. El) Tj
-T* (enunciado pedía un ID único incremental, no aleatorio.) Tj
+(La función usa una IIFE con closure correctamente para mantener un contador. Sin embargo, genera un ID) Tj
+T* (aleatorio en lugar de uno secuencial basado en el contador, lo cual no cumple con la descripción de la actividad. Se) Tj
+T* (espera que retorne el valor del contador incrementado.) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 534.15771653543311 Td
+39.6850393700787407 522.65771653543311 Td
 (Actividad 15: Invertir una cadena - Crea una función que invierta una cadena de texto. \(Tipo de función:) Tj
 T* (Función recursiva\)) Tj
 ET
@@ -2197,42 +2198,42 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 506.9884251968504145 Td
+51.0236220472441033 495.4884251968504145 Td
 (Archivo esperado: ejercicios/ejercicio_15.js) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 491.319133858267719 Td
+51.0236220472441033 479.8191338582677758 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 475.6498425196850803 Td
+51.0236220472441033 464.1498425196850803 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 459.9805511811024417 Td
+51.0236220472441033 448.4805511811024417 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 444.3112598425197461 Td
+62.3622047244094517 432.8112598425197461 Td
 (Archivo vacío - sin contenido para evaluar) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 420.1380314960630926 Td
+39.6850393700787407 408.6380314960630926 Td
 (Actividad 16: Sumar argumentos variables - Crea una función que sume un número variable de) Tj
 T* (argumentos. \(Tipo de función: Función flecha con parámetro rest\)) Tj
 ET
@@ -2240,42 +2241,42 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 392.9687401574804539 Td
+51.0236220472441033 381.4687401574804539 Td
 (Archivo esperado: ejercicios/ejercicio_16.js) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 377.2994488188977584 Td
+51.0236220472441033 365.7994488188977584 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 361.6301574803151198 Td
+51.0236220472441033 350.1301574803151198 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 345.9608661417324242 Td
+51.0236220472441033 334.4608661417324811 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 330.2915748031497856 Td
+62.3622047244094517 318.7915748031498424 Td
 (Archivo vacío - sin contenido para evaluar) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 306.1183464566930752 Td
+39.6850393700787407 294.6183464566930752 Td
 (Actividad 17: Ejecutar operación personalizada - Crea una función que reciba dos números y una función) Tj
 T* (callback para realizar una operación. \(Tipo de función: Función de orden superior\)) Tj
 ET
@@ -2283,42 +2284,42 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 278.9490551181104365 Td
+51.0236220472441033 267.4490551181104365 Td
 (Archivo esperado: ejercicios/ejercicio_17.js) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 263.2797637795277979 Td
+51.0236220472441033 251.7797637795277979 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 247.6104724409451592 Td
+51.0236220472441033 236.1104724409451592 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 231.9411811023625205 Td
+51.0236220472441033 220.4411811023625205 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 216.2718897637797681 Td
+62.3622047244094517 204.7718897637798818 Td
 (Archivo vacío - sin contenido para evaluar) Tj
 ET
 BT
 /F2 10 Tf
 11.5 TL
 0. g
-39.6850393700787407 192.0986614173231146 Td
+39.6850393700787407 180.5986614173231146 Td
 (Actividad 18: Validar correo electrónico - Crea una función que valide si una cadena es un correo) Tj
 T* (electrónico básico \(contiene @ y .com\). \(Tipo de función: Declaración de función\)) Tj
 ET
@@ -2326,35 +2327,35 @@ BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 164.9293700787404759 Td
+51.0236220472441033 153.4293700787404759 Td
 (Archivo esperado: ejercicios/ejercicio_18.js) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 149.2600787401578373 Td
+51.0236220472441033 137.7600787401578373 Td
 (Estado: Archivo encontrado) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 133.5907874015751986 Td
+51.0236220472441033 122.0907874015751986 Td
 (Calificación: 0.0/5.0) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-51.0236220472441033 117.9214960629925599 Td
+51.0236220472441033 106.4214960629925599 Td
 (Retroalimentación:) Tj
 ET
 BT
 /F1 10 Tf
 11.5 TL
 0. g
-62.3622047244094517 102.2522047244098076 Td
+62.3622047244094517 90.7522047244098076 Td
 (Archivo vacío - sin contenido para evaluar) Tj
 ET
 BT
@@ -2703,7 +2704,7 @@ endobj
 27 0 obj
 <<
 /Producer (jsPDF 3.0.1)
-/CreationDate (D:20250824233457-05'00')
+/CreationDate (D:20250824233711-05'00')
 >>
 endobj
 28 0 obj
@@ -2717,41 +2718,41 @@ endobj
 xref
 0 29
 0000000000 65535 f 
-0000046770 00000 n 
-0000048617 00000 n 
+0000047017 00000 n 
+0000048864 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
 0000026694 00000 n 
 0000026831 00000 n 
-0000032645 00000 n 
-0000032782 00000 n 
-0000038421 00000 n 
-0000038559 00000 n 
-0000043874 00000 n 
-0000044013 00000 n 
-0000046852 00000 n 
-0000046978 00000 n 
-0000047109 00000 n 
-0000047243 00000 n 
-0000047381 00000 n 
-0000047505 00000 n 
-0000047634 00000 n 
-0000047766 00000 n 
-0000047902 00000 n 
-0000048030 00000 n 
-0000048157 00000 n 
-0000048286 00000 n 
-0000048419 00000 n 
-0000048521 00000 n 
-0000048870 00000 n 
-0000048956 00000 n 
+0000032613 00000 n 
+0000032750 00000 n 
+0000038517 00000 n 
+0000038655 00000 n 
+0000044121 00000 n 
+0000044260 00000 n 
+0000047099 00000 n 
+0000047225 00000 n 
+0000047356 00000 n 
+0000047490 00000 n 
+0000047628 00000 n 
+0000047752 00000 n 
+0000047881 00000 n 
+0000048013 00000 n 
+0000048149 00000 n 
+0000048277 00000 n 
+0000048404 00000 n 
+0000048533 00000 n 
+0000048666 00000 n 
+0000048768 00000 n 
+0000049117 00000 n 
+0000049203 00000 n 
 trailer
 <<
 /Size 29
 /Root 28 0 R
 /Info 27 0 R
-/ID [ <A1574542E47EA9474E1EEF4477632A06> <A1574542E47EA9474E1EEF4477632A06> ]
+/ID [ <A45D704A7A6B338847CB6069CCC209AF> <A45D704A7A6B338847CB6069CCC209AF> ]
 >>
 startxref
-49060
+49307
 %%EOF
